@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PooOCVxz53N9qpO3PZBcEdXrzeN9HfJM2/23KgUIBSH1DlPHMy0TxW/+FrGvNKb7nM4qrX+6c9yxlrb6Bsk/GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kmlnd\\source\\repos\\ConfigApp\\ConfigApp\\ConfigApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\3.1.9\\microsoft.extensions.configuration.commandline.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.9\\microsoft.extensions.configuration.fileextensions.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.9\\microsoft.extensions.configuration.json.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.9\\microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.9\\microsoft.extensions.fileproviders.physical.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.9\\microsoft.extensions.filesystemglobbing.3.1.9.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
